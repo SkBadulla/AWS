@@ -4,7 +4,7 @@ Amazon Web Services.
 ## Required Softwares
 - [Putty](https://www.putty.org/)
 - [WinSCP](https://winscp.net/eng/download.php)
-- Install both pytty and winscp.
+- Install both putty and winscp.
 
 ### Step 1: Start a new Ubuntu Linux server instance on Amazon EC2
 
